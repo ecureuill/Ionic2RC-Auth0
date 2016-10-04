@@ -8,3 +8,5 @@ So it was necessary a [different config](https://forum.ionicframework.com/t/angu
 
 AuthLock lead to blank page after login
 https://auth0.com/forum/t/ionic2-rc0-blank-page-after-login/3871
+
+Workaround: open Google Developer Tools > toogle device toolbar > select an android device
